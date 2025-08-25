@@ -1,6 +1,6 @@
 # 🎮 Jokenpô – Pedra, Papel e Tesoura  
 
-![Banner do Projeto](docs/images/cover_jokenpo.png)  
+![Banner do Projeto](docs/images/cover_jokepo.png)  
 
 ---
 
@@ -29,8 +29,3 @@ Projeto desenvolvido durante o curso **Desenvolvimento Android** do professor **
 Exemplo:  
 ![Telas](docs/images/telas_jokenpo.png)  
 
----
-
-## 📂 Como Executar o Projeto
-1. Clone este repositório:  
-   ```bash
