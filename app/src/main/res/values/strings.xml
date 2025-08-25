@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jokenpo</string>
+    <string name="txt_title">jokenpô</string>
+    <string name="txt_escolha_app">Escolha do app</string>
+    <string name="txt_escolha_usuario">Faça a sua escolha</string>
+    <string name="msg_derrota">Você perdeu :(</string>
+    <string name="msg_vitoria">Você ganhou! :D</string>
+    <string name="msg_empate">Empatou! :/</string>
+</resources>
