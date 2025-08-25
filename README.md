@@ -24,7 +24,6 @@ Projeto desenvolvido durante o curso **Desenvolvimento Android** do professor **
 ---
 
 ## 🖼️ Prints do Aplicativo
-*(adicione aqui as imagens do app rodando)*  
 
 Exemplo:  
 ![Telas](docs/images/telas_jokenpo.png)  
